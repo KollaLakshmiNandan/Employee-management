@@ -201,6 +201,7 @@ function App() {
                                     Manage customer claims, review their status
                                     and track claim activity from one place.
                                 </p>
+                                <p className="version">Version 2.0 • Use Case 1</p>
 
                                 <button
                                     className="primary"
